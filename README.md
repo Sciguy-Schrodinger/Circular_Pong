@@ -29,7 +29,7 @@ Built with **Pygame**.
 
 Install Pygame:
 
-```bash
+bash
 pip install pygame
 
 ### Compile
